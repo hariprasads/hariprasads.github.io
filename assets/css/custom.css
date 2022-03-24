@@ -1,0 +1,17 @@
+.job-title, .quote_block{
+	color: #6d56c1
+}
+
+li{
+	list-style: none;
+	font-size: 17px;
+}
+
+
+li::before{
+	content: "\27A4";
+	margin-right: 10px
+}
+
+
+	
